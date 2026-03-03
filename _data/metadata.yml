@@ -3,12 +3,10 @@
 fields: 
   title: "Title"
   creator: "Creator"
-  contributor: "Contributor"
+  contributor: "Location"
   creationdate: "Date"
   type: "Type"
   shortdesc: "Short Description"
   group: "Group"
   categories: "Categories"
   tags: "Tags"
-  teammember: "Team Member"
-  contributorquote: "Contributor Quote"
