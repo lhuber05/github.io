@@ -1,4 +1,3 @@
-
 ---
 title: Afterlives
 layout: collection
