@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: Apocalypse Matters
 layout: homepage
 permalink: /
 ---
